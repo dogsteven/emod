@@ -1,0 +1,1 @@
+This file includes 698 author collected emotional images. For the 321 IAPS images, the image name are listed in the excel file. You can request for the original IAPS images from the IAPS webpage: http://csea.phhp.ufl.edu/media.html
